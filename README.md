@@ -1,1 +1,0 @@
-# amazon-data-scraper-api
